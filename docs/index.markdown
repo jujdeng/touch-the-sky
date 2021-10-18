@@ -7,16 +7,16 @@ title: Touch the Sky
 ---
 #### by Julie Fowlis
 
-<!-- <script>
+<script>
     var audio = new Audio('../media/touch-the-sky.mp3');
     audio.play();
-  </script> -->
+</script>
 
-<audio
+<!-- <audio
     controls
     style="margin: 0 auto; display: block;"
-    src="../media/touch-the-sky.mp3">t.
-</audio>
+    src="../media/touch-the-sky.mp3">
+</audio> -->
 
 &nbsp;
 
