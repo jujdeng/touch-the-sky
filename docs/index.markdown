@@ -3,15 +3,22 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Touch the Sky
 ---
-
-# Touch the Sky
 #### by Julie Fowlis
 
-<audio controls src="/media/brave.mp3"> </audio>
+<!-- <script>
+    var audio = new Audio('../media/touch-the-sky.mp3');
+    audio.play();
+  </script> -->
 
-![audio](/media/brave.mp3)
+<audio
+    controls
+    style="margin: 0 auto; display: block;"
+    src="../media/touch-the-sky.mp3">t.
+</audio>
 
+&nbsp;
 
 ![blue sky](/assets/images/blue_sky.jpg)
 
