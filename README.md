@@ -1,2 +1,1 @@
-# touch-the-sky
-photography decal midterm project
+fall 2021 photography decal midterm project
