@@ -20,3 +20,5 @@ You can find the source code for Jekyll at GitHub:
 Shot at Grizzly Peak Vista Point
 
 Thank you Kaitlyn Chan<3
+
+![kaitlyn](/assets/images/kaitlyn.jpg)
