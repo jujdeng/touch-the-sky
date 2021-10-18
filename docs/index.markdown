@@ -10,6 +10,9 @@ layout: home
 
 <audio controls src="/media/brave.mp3"> </audio>
 
+![audio](/media/brave.mp3)
+
+
 ![blue sky](/assets/images/blue_sky.jpg)
 
 ![orange sky](/assets/images/orange_sky.jpg)
